@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/31eab7e6-05bb-4968-a813-a1da3e42fc24/thumbnail" >
+</p>
+
+
+
 <!--
 **lynndixon/lynndixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
